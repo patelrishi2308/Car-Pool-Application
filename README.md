@@ -6,7 +6,7 @@ The Car Pool Application is a mobile ride-sharing platform enabling users to sha
 
 ## Demo Video
 
-To see "CHECK" in action, watch the demo video [here](https://drive.google.com/file/d/1IkWQBib9yVsMVpWrWnaNVFEQYu93oPds/view?usp=drive_link).
+To see "Car-Pool" in action, watch the demo video [here](https://drive.google.com/file/d/1IkWQBib9yVsMVpWrWnaNVFEQYu93oPds/view?usp=drive_link).
 
 ## Presentation
 
